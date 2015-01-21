@@ -1,6 +1,6 @@
 ## Choosing the Working Directory ##
 
-setwd("D:\\Schazinha\\Cursos\\Getting and Cleaning Data\\courseR\\data\\UCI HAR Dataset")
+#setwd("D:\\Schazinha\\Cursos\\Getting and Cleaning Data\\courseR\\data\\UCI HAR Dataset")
 getwd()
 
 ##Downloading and saving the file ##
