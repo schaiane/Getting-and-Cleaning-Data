@@ -22,6 +22,7 @@ Open RStudio and submit the command setwd("your file path here") to define the W
 
 For MS Windows, follow the example:
 
+
 setwd("D:\\Schazinha\\Cursos\\Getting and Cleaning Data\\courseR\\data\\UCI HAR Dataset")
 
 
