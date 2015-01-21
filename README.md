@@ -37,9 +37,10 @@ Or use the command source("run_analysis.R") if the code is saved in the same fol
 
 
 
-###  Step 4 - Readinf the tify dataset
+###  Step 4 - Reading the tidy dataset created
 
 Submit the following command to read the data:
+
 data <- read.table("tidy_dt.txt",header = TRUE)
 
 dim(data) #should be 180 68
