@@ -24,6 +24,7 @@ For MS Windows, follow the example:
 
 setwd("D:\\Schazinha\\Cursos\\Getting and Cleaning Data\\courseR\\data\\UCI HAR Dataset")
 
+
 The path should point to the same folder chosen in Step 1.
 
 You may submit the command getwd() to verify if the directory was set correctly.
