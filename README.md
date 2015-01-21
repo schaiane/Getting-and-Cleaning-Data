@@ -2,12 +2,12 @@
 
 ## Peer Assessment
 
-This is a step-by-step on how to run to code for the peer assessment
+This is a step-by-step on how to run the peer assessment code.
 
 
 ##### Step 1 - Downloading and saving the file
 
-Go to: 
+Click: 
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
 
 Download and save the file in the folder chosen as the Working Directory.
@@ -19,11 +19,10 @@ Unzip the file.
 ##### Step 2 - Setting the Working Directory in RStudio
 
 Open RStudio and submit the command setwd("your file path here") to define the Working Directory.
-
-The path should point the same folder you saved the file resulting from Step 1.
-
-Example:
+For MS Windows, follow the example:
 setwd("D:\\Schazinha\\Cursos\\Getting and Cleaning Data\\courseR\\data\\UCI HAR Dataset")
+
+The path should point to the same folder chosen in Step 1.
 
 You may submit the command getwd() to verify if the directory was set correctly.
 
