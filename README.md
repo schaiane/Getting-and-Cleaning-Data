@@ -20,8 +20,7 @@ Unzip the file.
 
 Open RStudio and submit the command setwd("your file path here") to define the Working Directory.
 
-For MS Windows, follow the example:
-
+For example:
 
 setwd("D:\\Schazinha\\Cursos\\Getting and Cleaning Data\\courseR\\data\\UCI HAR Dataset")
 
