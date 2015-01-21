@@ -2,7 +2,7 @@
 
 ## Peer Assessment
 
-This is a step-by-step about how to run to code for the peer assessment
+This is a step-by-step on how to run to code for the peer assessment
 
 
 ### Step 1 - Downloading and saving the file
