@@ -5,7 +5,7 @@
 This is a step-by-step on how to run to code for the peer assessment
 
 
-### Step 1 - Downloading and saving the file
+#### Step 1 - Downloading and saving the file
 
 Go to: 
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
