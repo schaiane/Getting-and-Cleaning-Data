@@ -19,7 +19,9 @@ Unzip the file.
 ##### Step 2 - Setting the Working Directory in RStudio
 
 Open RStudio and submit the command setwd("your file path here") to define the Working Directory.
+
 For MS Windows, follow the example:
+
 setwd("D:\\Schazinha\\Cursos\\Getting and Cleaning Data\\courseR\\data\\UCI HAR Dataset")
 
 The path should point to the same folder chosen in Step 1.
@@ -30,7 +32,7 @@ You may submit the command getwd() to verify if the directory was set correctly.
 
 ##### Step 3 - Running the code
 
-Load the file run_analysis.R on RStudio and submit it.
+Load the file run_analysis.R on RStudio and run the code.
 
 Or use the command source("run_analysis.R") if the code is saved in the same folder as the data.
 
