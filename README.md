@@ -5,7 +5,7 @@
 This is a step-by-step on how to run to code for the peer assessment
 
 
-#### Step 1 - Downloading and saving the file
+##### Step 1 - Downloading and saving the file
 
 Go to: 
 <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>
@@ -16,7 +16,7 @@ Unzip the file.
 
 
 
-### Step 2 - Setting the Working Directory in RStudio
+##### Step 2 - Setting the Working Directory in RStudio
 
 Open RStudio and submit the command setwd("your file path here") to define the Working Directory.
 
@@ -29,7 +29,7 @@ You may submit the command getwd() to verify if the directory was set correctly.
 
 
 
-### Step 3 - Running the code
+##### Step 3 - Running the code
 
 Load the file run_analysis.R on RStudio and submit it.
 
@@ -37,7 +37,7 @@ Or use the command source("run_analysis.R") if the code is saved in the same fol
 
 
 
-###  Step 4 - Reading the tidy dataset created
+#####  Step 4 - Reading the tidy dataset created
 
 Submit the following command to read the data:
 
